@@ -13,7 +13,7 @@ If you have any questions, head over to the [Build Biome Discord server](https:/
 ### The Frame
 The standard Baby Panda frame can be built entirely from extrusions salvaged from 2 Ender 3 Pros or Ender 3 V2s (one of each should work ok too).
 
-![Standard Baby Panda Frame](images/standard_frame.png | width=250)
+<img src="images/standard_frame.png" width="200" height="200">
 *standard frame*
 
 
