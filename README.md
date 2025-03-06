@@ -13,10 +13,10 @@ If you have any questions, head over to the [Build Biome Discord server](https:/
 ### The Frame
 The standard Baby Panda frame can be built entirely from extrusions salvaged from 2 Ender 3 Pros or Ender 3 V2s (one of each should work ok too).
 
-<p>
-   <img src="images/standard_frame.png" width="200" height="200">
-   <em>Standard Frame</em>
-</p>
+<p><img src="images/standard_frame.png" width="200" height="200"></p>
+<p><em>Standard Frame</em></p>
+   
+
 
 In the standard configuration, the 3 4040 extrusions from the base of one Ender form the base of the Baby Panda frame, and the base extrusions of the other Ender  form the top. The uprights from each ender, which will need to be drilled out for blind joints using the [jig](https://github.com/robwaldhauser/Baby-Panda/blob/main/STLs/Drilling%20Jig.stl) available in the CAD section, connect the top of the frame to the bottom in each corner.
 
