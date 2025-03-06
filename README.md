@@ -19,5 +19,8 @@ In the standard configuration, the 3 4040 extrusions from the base of one Ender 
 
 If desired, for additional rigidity and/or to facilitate enclosure of the printer, 2 additional 2020 extrusions can be purchased and installed in either of the following configurations:
 
-!(standard frame with extra 2020s)[images/standard_frame_plus_2_2020s.png "standard frame with extra 2020s"]
-!(standard frame with 2020s replacing top 4040)[images/standard_frame_plus_2_2020s_less_top_4040_crossbar.png "standard frame with 2020s replacing top 4040"]
+![standard frame with extra 2020s](images/standard_frame_plus_2_2020s.png)
+*standard frame with extra 2020s*
+
+![standard frame with 2020s replacing top 4040](images/standard_frame_plus_2_2020s_less_top_4040_crossbar.png)
+*standard frame with 2020s replacing top 4040*
