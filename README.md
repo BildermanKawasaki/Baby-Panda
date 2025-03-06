@@ -16,10 +16,9 @@ The standard Baby Panda frame can be built entirely from extrusions salvaged fro
 <p><img src="images/standard_frame.png" width="350"></p>
 <p><em>Standard frame</em></p>
 
+<p>In the standard configuration, the 3 4040 extrusions from the base of one Ender form the base of the Baby Panda frame, and the base extrusions of the other Ender  form the top. The uprights from each ender, which will need to be drilled out for blind joints using the [jig](https://github.com/robwaldhauser/Baby-Panda/blob/main/STLs/Drilling%20Jig.stl) available in the CAD section, connect the top of the frame to the bottom in each corner.</p>
 
-In the standard configuration, the 3 4040 extrusions from the base of one Ender form the base of the Baby Panda frame, and the base extrusions of the other Ender  form the top. The uprights from each ender, which will need to be drilled out for blind joints using the [jig](https://github.com/robwaldhauser/Baby-Panda/blob/main/STLs/Drilling%20Jig.stl) available in the CAD section, connect the top of the frame to the bottom in each corner.
-
-If desired, for additional rigidity and/or to facilitate enclosure of the printer, 2 additional 2020 extrusions can be purchased and installed in either of the following configurations:
+<p>If desired, for additional rigidity and/or to facilitate enclosure of the printer, 2 additional 2020 extrusions can be purchased and installed in either of the following configurations:</p>
 
 <p><img src="images/standard_frame_plus_2_2020s.png" width="350"></p>
 <p><em>Standard frame with extra 2020</em></p>
