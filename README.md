@@ -10,21 +10,33 @@ There are currently no build instructions specific to Baby Panda, so but the [Vo
 
 If you have any questions, or want to see pictures and videos of builds, check out the #🐼baby-panda channel in the [Build Biome Discord server](https://discord.gg/SpCVg9wG). 
 
-### The Frame
+## Ender 3 Parts Reuse
+As mentioned above, one of the goals of this project is to repurpose parts from Ender 3s that are sitting around gathering dust. Some of the parts that can be reused include:
+* All base 4040 extrusions (Pro/V2)
+* Y 4040 extrusion (Pro\*)
+* 4020 extrusions (Pro/V2)
+* Power supply
+* Mainboards\**
+* Motors
+* Bed carriage
+* Heated bed
+* Some wiring
+
+\*V2 Y 4040 extrusion could be reused with spacers
+\*\*A total of 8 motors drivers are needed, but if you have 2 mainboards they can both be used
+
+## The Belt Assembly
+This assembly is the heart of the project. It adds one additional stepper motor to the BOM. There is nothing official released yet, but several people in the Discord are working on macros to make it work. The purpose of the belt is to eject printed parts automatically after printing so that another job can run immediately and without intervention. It is not intended to move during a print as X-Y movement is handled by the coreXY motion system.
+<p><img src="images/belt_assembly.png" width="600"></p>
+<p><em>Belt assembly</em></p>
+
+## The Frame
 The standard Baby Panda frame can be built entirely from extrusions salvaged from 2 Ender 3s. Ender 3 pro is ideal. 3V2 can work, but the Y extrusion is slightly shorter. This can be worked around using spacers or by buying a longer extrusion.
 
 <p><img src="images/standard_frame.png" width="350"></p>
 <p><em>Standard frame</em></p>
 
-<p>In the standard configuration, the 3 4040 extrusions from the base of one Ender form the base of the Baby Panda frame, and the base extrusions of the other Ender  form the top. The uprights from each ender, which will need to be drilled out for blind joints using the [jig](https://github.com/robwaldhauser/Baby-Panda/blob/main/STLs/Drilling%20Jig.stl) available in the CAD section, connect the top of the frame to the bottom in each corner.</p>
+<p>In the standard configuration, the 3 4040 extrusions from the base of one Ender form the base of the Baby Panda frame, and the base extrusions of the other Ender  form the top. The uprights from each ender, which will need to be drilled out for blind joints using the <a href="https://github.com/robwaldhauser/Baby-Panda/blob/main/STLs/Drilling%20Jig.stl">jig</a> available in the CAD section, connect the top of the frame to the bottom in each corner. Optionally, 2 additional 2020 extrusions can be installed for extra rigidity and to help enclose the printer.</p>
 
-<p>If desired, for additional rigidity and/or to facilitate enclosure of the printer, 2 additional 2020 extrusions can be purchased and installed in either of the following configurations:</p>
-
-<p><img src="images/standard_frame_plus_2_2020s.png" width="350"></p>
-<p><em>Standard frame with extra 2020</em></p>
-
-
-<p><img src="images/standard_frame_plus_2_2020s_less_top_4040_crossbar.png" width="350"></p>
-<p><em>Standard frame with 2020s replacing top 4040</em></p>
-
-
+<p><img src="images/standard_frame_plus_2_2020s.png" width="350"><img src="images/standard_frame_plus_2_2020s_less_top_4040_crossbar.png" width="350"></p>
+<p><em>A couple options for placement of additional 2020 extrusions</em></p>
