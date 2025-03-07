@@ -3,7 +3,7 @@
 Baby Panda is a core-XY printer with moving conveyor build plate to enable continuous printing. It borrows a lot of it's motion system from the Voron 2.4, and was designed to repurpose as many parts as possible from a pair of Ender 3 Pro/V2 printers. 
 
 ## Building Baby Panda
-There are currently no build instructions for Baby Panda. The best way to get started is to check out available documentation:
+There are currently no build instructions for Baby Panda. The best way to get started is to check out available documentation and then follow along in the [Voron 2.4r2 assembly manual](https://github.com/VoronDesign/Voron-2/raw/Voron2.4/Manual/Assembly_Manual_2.4r2.pdf):
 * [BOM](https://github.com/robwaldhauser/Baby-Panda/blob/main/BOM%20Spreadsheet.ods) - Baby Panda bill of materials (.ods format)
 * [STLs](https://github.com/robwaldhauser/Baby-Panda/tree/main/STLs) - model files for each part
 * [CAD](https://github.com/robwaldhauser/Baby-Panda/tree/main/CAD) - An archive containing a .step file with a fully assembled Baby Panda
@@ -11,7 +11,7 @@ There are currently no build instructions for Baby Panda. The best way to get st
 If you have any questions, head over to the [Build Biome Discord server](https://discord.gg/SpCVg9wG) and ask them in the #🐼baby-panda channel. 
 
 ### The Frame
-The standard Baby Panda frame can be built entirely from extrusions salvaged from 2 Ender 3 Pros or Ender 3 V2s (one of each should work ok too).
+The standard Baby Panda frame can be built entirely from extrusions salvaged from 2 Ender 3s. Ender 3 pro is ideal. 3V2 can work, but the Y extrusion is slightly shorter. This can be worked around using spacers or by buying a longer extrusion.
 
 <p><img src="images/standard_frame.png" width="350"></p>
 <p><em>Standard frame</em></p>
