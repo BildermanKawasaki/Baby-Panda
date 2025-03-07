@@ -2,6 +2,8 @@
 ## Introduction
 Baby Panda is a core-XY printer with conveyor build plate to enable continuous printing. The motion system is borrowed from the [Voron 2.4](https://vorondesign.com/voron2.4). The design is intended to repurpose as many parts as possible from a pair of Ender 3s.
 
+<p><img src="images/baby_panda.png" width="400"></p>
+
 ## Building Baby Panda
 There are currently no build instructions specific to Baby Panda, so but the [Voron 2.4r2 assembly manual](https://github.com/VoronDesign/Voron-2/raw/Voron2.4/Manual/Assembly_Manual_2.4r2.pdf) can be used for the most part, along with the following reasources for the Baby Panda-specific parts:
 * [BOM](https://github.com/robwaldhauser/Baby-Panda/blob/main/BOM%20Spreadsheet.ods) - Baby Panda bill of materials (.ods format)
